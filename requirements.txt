@@ -1,0 +1,11 @@
+streamlit
+smtplib
+ssl
+base64
+pymongo
+imaplib
+email
+datetime
+os
+json
+cryptography
