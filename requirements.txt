@@ -1,11 +1,3 @@
-streamlit
-smtplib
-ssl
-base64
-pymongo
-imaplib
-email
-datetime
-os
-json
-cryptography
+streamlit==1.43.2
+pymongo==4.10.1
+cryptography==44.0.0
